@@ -32,3 +32,114 @@ Myoreps - the first set is typically in the 10-20 rep range, 0-2 RIR. Rest times
 Drop sets involve doing sets to 3 RIR or less, resting just long enough for the burn to fade, then reducing the weight before each subsequent set. A good practice for drop sets is to set a minimum rep number for all sets and to drop the weight enough to stay just above that number. Your first set, as with myoreps, should be between 10 and 20 reps. After the first set, you rest just long enough for the burn to go away and then drop the weight so that you can get between 5 and 10 reps in that next set, repeating this for a chosen number of sets. If the reps ever drop below 5, the weight needs to come down further than planned in the next set, and if the reps come above 10 (for any but the first set), no drop is needed. Drop sets do very much what myoreps do, but they probably target the slower fibers a bit more. The best place for drop sets is at the ends of workouts when a good combination of pump and metabolite accumulation is desired, but a shorter rest than possible with myoreps is preferred. Please note that drop sets have all of the same limitations as myoreps and should not make up the majority of training volumes. Likewise, drop sets should be limited to mainly isolation movements.
 
 Occlusion training is an interesting way to make the target muscle in an exercise more of a limiting factor. In occlusion training, this aim is achieved by occluding blood flow to the target muscle and thus preventing metabolites from escaping into the bloodstream as quickly—leading to better metabolite accumulation. To do this, you can tie bands just below your knees for example, and do calf raises. This makes occlusion training perfect for maintaining muscle when recovering from injury. Occlusion training is also limited to those muscles that can be effectively occluded—you cannot do much to stop blood flow to your back or abdominal muscles for example. When doing occlusion training, please follow all of the caveats for drop sets and myoreps, such as using this tool minimally and saving it for later in the training session.
+
+
+Progressing across some combination of load, sets, reps, and proximity to failure, with a focus on volume is probably best.
+
+Load progression - One simple and effective option for load progression is just to increase as much as needed to stay within target RIRs, while keeping your reps similar. For example, if you plan four weeks of progression, you might target 4,3,2,1 RIR across weeks one, two, three, and four of your progression respectively. To keep reps similar, but get closer to failure each week, adding weight weekly might be needed.
+
+Rep progression - If you choose to progress in reps rather than load, you will still be guided by the RIR roadmap—without load additions, adding reps will likely be needed to progress in proximity to failure across weeks. For rep progression, it’s important to always keep your rep range targets in the back of your mind. For example, if you set your rep range as 10-20, and by week three you’re doing 20 reps in your first set, you should probably consider adding weight in the fourth week, to prevent leaving your target rep range that week. Rep progressions are also very useful when available weight increments are too large. For example, let’s say you’re lateral raising 15lb dumbbells with a 10-20 rep target range. If you average around 13 reps per set in week one and the next dumbbells up are 20lb, increasing weight in week two will almost definitely push you below 10 reps (and out of your target range). Instead of making such a large weight jump, you can increase reps with the 15lb dumbbells, maybe averaging 15 reps per set in week two and 17 in week three and so on. Once you break the 20 rep ceiling, you can go up to the 20lb dumbbells and will probably be able to get an average of around 10 reps with that weight by then.
+
+Set progression - Sets are probably the best proxy for volume, and this is where MEV (Minimum Effective Volume) and MRV  (Maximum Recoverable Volume) come into play. Starting your training at MEV will allow for effective training across a longer progression, but in order to start there, we must know how to find MEV:
+a. On a scale of 0-3 how much did the session challenge your target muscles?
+    0: You felt barely aware of your target muscles during the exercise
+    1: You felt like your target muscles worked, but mildly
+    2: You felt a good amount of tension and or burn in the target muscles
+    3: You felt tension and burn close to the limit in your target muscles
+b. On a scale of 0-3 how much pump did you experience in the target muscles?
+    0: You got no pump at all in the target muscles
+    1: You got a very mild pump in the target muscles
+    2: You got a decent pump in the target muscles
+    3: You got close to maximal pump in the target muscles
+c. On a scale of 0-3 how much did the session disrupt your target muscles?
+    0: You had no fatigue, perturbation, or soreness in the target muscles
+    1: You had some weakness and stiffness after the session in the target muscles, but recovered by the next day
+    2: You had some weakness and stiffness in the target muscles after the session and had some soreness the following day
+    3: You got much weaker and felt perturbation in the target muscles right after the
+       session and also had soreness for a few days or more
+       
+Add up the scores for each metric to total between 0 - 9.
+0-1 -> stimulus likely below MEV -> increase volume the following week by two to four sets
+2-3 -> stimulus likely at or below MEV -> increase volume the following week by two to four sets
+4-6 -> stimulus likely at or just above MEV (a great palce to start a mesocycle) -> progress normally
+7-9 -> stimulus likely between MAV (Maxiumum Adaptive Volume) and MRV, possibly exceeding MRV -> drop volume the following        week
+
+Once you get through your first week at MEV, you can look back on it and decide how to progress in sets using the this “Set Progression Algorithm”:
+a. On a scale of 0-3 how sore did you get in the target muscles?
+    0: You did not get at all sore in the target muscles
+    1: You got stiff for a few hours after training and had mild soreness in the target muscles that resolved by next              session targeting the same muscles
+    2: You got DOMS in the target muscles that resolved just in time for the next session targeting the same muscles
+    3: You got DOMS in the target muscles that remained for the next session targeting the same muscles
+b. On a scale of 0-3 how was your performance?
+    0: You hit your target reps, but either had to do 2 more reps than planned to hit target RIR or you hit your target            reps at 2 or more reps before target RIR
+    1: You hit your target reps, but either had to do 0-1 more reps than planned to hit target RIR or you hit your target          reps at 1 rep before target RIR
+    2: You hit your target reps after your target RIR
+    3: You could not match last week’s reps at any RIR
+ 
+Note that in the above description, “target reps” refer to the goal reps for that week. If you are progressing via weight and you curled 60lb for 10,8,6 reps last week, your goal this week at 65lb should be 10,8,6 again. If you are progressing on reps the target reps might be 11,9,7 with 60lb. Also note, these apply to the average of all sets in an exercise, so if you had a few amazing sets and a few very tough sets, for example, you would average those results when choosing your score. For week one of a mesocycle score performance as 1-2. Note that no matter how little soreness you are experiencing, if you score a 2 or higher on (lack of) performance you should not add sets and if you score a 3, you should employ recovery strategies.
+
+soreness score | performance score
+0              |                 0
+          add 1-3 sets
+          
+soreness score | performance score
+0              |                 1
+          add 0-2 sets
+          
+soreness score | performance score
+0              |                 2
+        do not add sets
+          
+soreness score | performance score
+0              |                 3
+      employ recovery sessions
+          
+soreness score | performance score
+1              |                 0
+          add 1-2 sets
+          
+soreness score | performance score
+1              |                 1
+          add 0-1 sets
+          
+soreness score | performance score
+1              |                 2
+        do not add sets
+        
+soreness score | performance score
+1              |                 3
+      employ recovery sessions
+      
+soreness score | performance score
+2              |                 0
+        do not add sets
+        
+soreness score | performance score
+2              |                 1
+          do not add sets   
+
+soreness score | performance score
+2              |                 2
+          do not add sets  
+          
+soreness score | performance score
+2              |                 1
+     employ recovery sessions
+     
+soreness score | performance score
+3              |                 0
+          do not add sets       
+          
+soreness score | performance score
+3              |                 1
+          do not add sets            
+          
+soreness score | performance score
+3              |                 2
+          do not add sets          
+          
+soreness score | performance score
+3              |                 3
+     employ recovery sessions         
+     
+So, in order to achieve progressive overload across straight set training, you find your MEV (using our MEV estimator), then start from MEV and add sets in proportion to your recovery (using our progression algorithm). Because your body adapts faster to volume than to weight increases in most cases, you’ll usually find that you can add quite a few sets over the course of your mesocycles even if you cannot increase weight weekly. As with load, because of the way cumulative fatigue is summed, it’s almost always better to low-ball the volume at the beginning of the program rather than get too ambitious too soon. You can always add more sets, but reducing excessive fatigue means stopping or heavily modifying the program, which highly interferes with results.
