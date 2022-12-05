@@ -169,7 +169,65 @@ Cramming too many different exercises per muscle group into a session can mean w
 
 If we want to stay in an effective volume range (get at least three sets of an exercise on average and end under 15 sets per muscle group per session), we are limited to three exercises per muscle group per session at most—with three being quite high. This means that one to two exercises per muscle group per session is probably a good target, and that three might be a top end option. Remember that most session MEVs start at 3-4 sets per session. If you choose three exercises per muscle group, that might mean you do one set of each in week one, which is not an efficient way to start for most. Per week, 2-4 exercises per muscle group is probably a sensible recommendation.
 
-You should probably make use of the 3 different rep ranges 5-10, 10-20, 20-30. The 10-20 being the most growth-promoting and the highest SFR (stimulus to fatigue ratio). If you’re going to endeavor to train all three ranges, you have to determine how much
-of your volume to put in each range. Because the 10-20 range gets the best intersection of safety and SFR, the average intermediate lifter seeking to maximize size gains should probably put the majority of their sets in that range. Perhaps about 50%, for example. We might split the remaining volume evenly between the 5-10 and 20-30 rep ranges. This 25%-50%-25% split is a very good place to start, but you should not stay there forever and alter the ranges over each mesocycle.
+You should probably make use of the 3 different rep ranges 5-10, 10-20, 20-30. The 10-20 being the most growth-promoting and the highest SFR (stimulus to fatigue ratio). If you’re going to endeavor to train all three ranges, you have to determine how much of your volume to put in each range. Because the 10-20 range gets the best intersection of safety and SFR, the average intermediate lifter seeking to maximize size gains should probably put the majority of their sets in that range. Perhaps about 50%, for example. We might split the remaining volume evenly between the 5-10 and 20-30 rep ranges. This 25%-50%-25% split is a very good place to start, but you should not stay there forever and alter the ranges over each mesocycle.
 
-(page 250)
+On the exercise front, certain loading ranges and exercises are incompatible. For example, you shouldn't deadlift for 30 reps but high rep back workout on machines can be very productive and safe. Likewise, isolation exercises on the heavy range and slow eccentrics on the lightest range aren't recommended. If you mix loading ranges in the same exercises, do it in descending fashion. For example, bench press at 5-10RM and then down sets with 10-20RM.
+
+On the session front, longer sessions with multiple muscle groups trained should probably split the first fraction of their sets and exercises into the 5-10 range and then do the rest in either or both of the two lighter ranges. The heavy range should almost always be done first, the moderate range next, and the lightest range last. You can always train lighter even if you are systemically fatigued from the heavy work.
+
+On the microcycle (week to week) front, it might be a good idea to start the week off with a greater percentage of work in the 5-10 range, leave more 10-20 range work in the middle of the week, and do more 20-30 rep sets towards the end of the week. 
+
+On the macrocycle scale, you might be able to train a muscle group through all of the rep ranges by dedicating specific mesocycles or blocks to be biased to each range. You might start with a block of evenly split training between all ranges in a muscle gain phase. Then have a block of mostly 5-10 range lifting during a resensitization phase, and finish with a fat loss block preferencing lighter loads.
+
+Don't waste all your best SFR lifts in your last few mesocycles because that might make you not very sensitive to them in the near future.
+
+Loading progression examples:
+Example 1: When weight increments of the machines or available weights are too large for practical increases, some strategy is needed. For example, let’s say that your 15RM in the lateral raise is 10lb. How are you supposed to get the same reps at an equal or lower RIR week to week if your dumbbell options are 10lb and then a big jump to 15lb? If you stay at the 10’s, either your reps have to increase week to week or your RIRs have to rise. If you go to 15lb after a week, your reps will fall out of your target range due to the large relative weight increase. Under these circumstances, letting your reps rise to make sure RIR is either stable or decreasing slightly week to week is best choice. Once your reps reach the upper end of the target rep range, you can increase weight and likely land at the lower end of that range. 
+
+Example 2: Let’s say you start your barbell curl with 15 reps and 4 RIR in the first week of a five week accumulation. Week two you add 5lb and get 15 reps again, at 3 RIR. So far, so good. Week three, you go up 5lb again, but end up hitting 1 RIR, which is a bit too fast for your planned accumulation. In the fourth week, you should stick with week three’s weight and repeat the same reps, again hitting 1 RIR. In the fifth and final week, you can add 5lb again and probably hit 15 reps at 0 RIR. Notice that we delayed one loading addition, but that since RIR did not go up during that time, we did not violate our loading progression rule.
+
+Example 3: If your RIR is rising, you need to add more reps to keep it progressing through the effective range. For example, if you get 15 reps at 4 RIR on the first set the first week, then 16 reps at 4 RIR in the second week, but you then get 17 reps at 5 RIR in the third week you are now in violation of the rep progression rule. The following week, you need to raise the reps, perhaps to 20, which might get you to 3 RIR and allow you to continue the progression. This is just an example—any choice that doesn’t violate the load and rep progression rules is valid.
+
+Example 4: Sometimes, things can go a bit more smoothly. We might be able to add 5lb every week to our bench press for six weeks without ever losing a rep, moving from 4 RIR in the first week to 0-1 RIR in the last. Other times, load progress might be sped up. Let’s say you plan to match your reps while moving up in leg presses by 10lb each week across a five week accumulation phase. You do 205lb for 12 reps at 4 RIR on a first set in the first week, 215lb for 12 reps on the second week with 3 RIR, but when doing 225lb on the third week, you hit 12 reps at only 4 RIR, which is no good because it’s a backslide in the overload progression of relative effort. In the next week, you might choose to go up by 15lb to 240lb, and that might get you a 3 RIR effort, before going up another 15lb to 255lb in your last week for a 1 RIR effort at 12 reps. 
+
+At the end of your accumulation phase, your MEV is fairly close to your MRV. If your MEV never went down, you’d soon be starting mesocycles right under your MRV, severely limiting volume progression and making your accumulations very short. Because you spend a week at MV level training during deload, you re-sensitize to higher volumes and your MEV drops, potentiating another productive accumulation. For example, if your MEV to MRV training went from 4-10 sets per session across the last meso, your MEV might be shifted up to eight sets by the end. A deload might drop it to six sets or so, giving you two more weeks of productive training compared to skipping deload. Because deloads only partly reduce MEV, after around 3-6 mesocycles you will need more than a week of lower volume training to separate MEV from MRV. The next level of Fatigue Management and Phase Potentiation is then required—a low volume mesocycle or “maintenance training phase” at MV, where you should rarely get sore, achieve a pump or even feel very challenged. During this phase you will often train in the 5-10 rep range. 
+
+As multiple high volume mesocycles are sequenced together, cumulative fatigue, damage to connective tissues, and volume resistance rise together. This means that heavier training becomes both less effective (as greater fatigue levels prevent strength expression at heavier loads considerably more than at lighter loads), and less safe. What you should do is to increase the fraction of moderate and light work and associated training modalities mesocycle to mesocycle across a training block. An active rest phase or resensitization phase can be taken when necessary, and then the pattern can repeat itself:
+Mesocycle 1:
+• 50% of the sets in the 5-10 rep range
+• 35% of the sets in the 10-20 rep range
+• 15% of the sets in the 20-30 rep range
+Mesocycle 2:
+• 25% of the sets in the 5-10 rep range
+• 50% of the sets in the 10-20 rep range
+• 25% of the sets in the 20-30 rep range
+Mesocycle 3:
+• 15% of the sets in the 5-10 rep range
+• 35% of the sets in the 10-20 rep range
+• 50% of the sets in the 20-30 rep range
+
+
+Occasional fat loss phases can potentiate muscle growth
+
+
+
+
+
+example
+Monday:
+• Squats (2 set of 5-10 reps): straight sets
+• Hack Squats (2 sets of 5-10 reps): straight sets
+• Moderate biceps work
+• Light chest work
+Wednesday:
+• Heavy chest work
+• Hack Squats (2 sets of 10-20 reps): slow eccentric, paused: straight sets with 
+down sets as needed
+• Lunges (with first set at ~20 reps): giant set of 60 total lunges 
+• Light biceps work
+Friday
+• Moderate chest work
+• Heavy biceps work
+• Lunges (2 sets of 20-30 reps): low rest high rep sets
+• Leg Extensions (3 sets of 10-20 reps, with load adjusted for fatigue from lunges): 
+myoreps
