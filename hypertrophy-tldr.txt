@@ -62,17 +62,17 @@ Add up the scores for each metric to total between 0 - 9.
 0-1 -> stimulus likely below MEV -> increase volume the following week by two to four sets
 2-3 -> stimulus likely at or below MEV -> increase volume the following week by two to four sets
 4-6 -> stimulus likely at or just above MEV (a great palce to start a mesocycle) -> progress normally
-7-9 -> stimulus likely between MAV (Maxiumum Adaptive Volume) and MRV, possibly exceeding MRV -> drop volume the following        week
+7-9 -> stimulus likely between MAV (Maxiumum Adaptive Volume) and MRV, possibly exceeding MRV -> drop volume the following week
 
 Once you get through your first week at MEV, you can look back on it and decide how to progress in sets using the this “Set Progression Algorithm”:
 a. On a scale of 0-3 how sore did you get in the target muscles?
     0: You did not get at all sore in the target muscles
-    1: You got stiff for a few hours after training and had mild soreness in the target muscles that resolved by next              session targeting the same muscles
+    1: You got stiff for a few hours after training and had mild soreness in the target muscles that resolved by next session targeting the same muscles
     2: You got DOMS in the target muscles that resolved just in time for the next session targeting the same muscles
     3: You got DOMS in the target muscles that remained for the next session targeting the same muscles
 b. On a scale of 0-3 how was your performance?
-    0: You hit your target reps, but either had to do 2 more reps than planned to hit target RIR or you hit your target            reps at 2 or more reps before target RIR
-    1: You hit your target reps, but either had to do 0-1 more reps than planned to hit target RIR or you hit your target          reps at 1 rep before target RIR
+    0: You hit your target reps, but either had to do 2 more reps than planned to hit target RIR or you hit your target reps at 2 or more reps before target RIR
+    1: You hit your target reps, but either had to do 0-1 more reps than planned to hit target RIR or you hit your target reps at 1 rep before target RIR
     2: You hit your target reps after your target RIR
     3: You could not match last week’s reps at any RIR
  
